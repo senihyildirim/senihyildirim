@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senih Yıldırım</h1>
-<h3 align="center">Computer Engineer Currentler Research Assistant in ITU</h3>
+<h3 align="center">Computer Engineer & Research Assistant at Istanbul Technical University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
